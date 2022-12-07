@@ -1,0 +1,15 @@
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\bin\Debug\net6.0\ValidandoDatas.exe
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\bin\Debug\net6.0\ValidandoDatas.deps.json
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\bin\Debug\net6.0\ValidandoDatas.runtimeconfig.json
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\bin\Debug\net6.0\ValidandoDatas.dll
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\bin\Debug\net6.0\ValidandoDatas.pdb
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.csproj.AssemblyReference.cache
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.AssemblyInfoInputs.cache
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.AssemblyInfo.cs
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.csproj.CoreCompileInputs.cache
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.dll
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\refint\ValidandoDatas.dll
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.pdb
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ValidandoDatas.genruntimeconfig.cache
+C:\Users\Domvs\Documents\Estudos\datas\ValidandoDatas\ValidandoDatas\obj\Debug\net6.0\ref\ValidandoDatas.dll
